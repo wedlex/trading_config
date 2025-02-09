@@ -1,7 +1,35 @@
 pairs:
   bybit:
     - BTCUSDT
+    - ETHUSDT
+    - SOLUSDT
     - XRPUSDT
+    - ADAUSDT
+    - LTCUSDT
+    - DOGEUSDT
+    - BCHUSDT
+    - DOTUSDT
+    - MATICUSDT
+    - AVAXUSDT
+    - UNIUSDT
+    - LINKUSDT
+    - SHIBUSDT
+    - FTMUSDT
+    - DOGEUSDT
+    - TRXUSDT
+    - APEUSDT
+    - XLMUSDT
+    - FILUSDT
+    - LUNAUSDT
+    - FTTUSDT
+    - ZRXUSDT
+    - GALAUSDT
+    - AAVEUSDT
+    - ALGOUSDT
+    - COTIUSDT
+    - SANDUSDT
+    - STMXUSDT
+    - AVAXUSDT
   binance:
     - BTCUSDT
     - BNBUSDT
