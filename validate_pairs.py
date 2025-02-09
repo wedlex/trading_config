@@ -2,10 +2,10 @@ import requests
 import yaml
 
 # 🔹 Ссылка на YAML-файл на GitHub
-GITHUB_YAML_URL = "https://raw.githubusercontent.com/username/repository/main/active_pairs.yaml"
+GITHUB_YAML_URL = "https://raw.githubusercontent.com/wedlex/trading_config/main/active_pairs.yaml"
 
 # 🔹 Ссылка на Bybit API (получение списка всех пар)
-BYBIT_API_URL = "https://api.bybit.com/v5/market/tickers"
+BYBIT_API_URL = "https://api.bybit.com/v5/market/tickers?category=linear"
 
 def load_yaml():
     """Загружаем active_pairs.yaml из GitHub"""
