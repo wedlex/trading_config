@@ -1,0 +1,11 @@
+pairs:
+  bybit:
+    - BTCUSDT
+    - XRPUSDT
+  binance:
+    - BTCUSDT
+    - BNBUSDT
+    - XRPUSDT
+  okx:
+    - BTC-USDT
+    - ETH-USDT
